@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+button {
+  opacity: 0.1;
+}
+button.on {
+  opacity: 1;
+}
